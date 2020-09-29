@@ -3936,12 +3936,11 @@ section.lazy-placeholder:after {
 }
 .cid-sc0KE7WV52 {
   background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 60px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-sc0KE7WV52 .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-sc0KE7WV52 .video-block {
