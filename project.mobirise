@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10906,6 +10906,19 @@
                 "customStyle1": "display-1",
                 "caption": "HYDROPHILICITY OF STARCH/CHITOSAN FILMS ADDED WITH UREA FOR USE AS NITROGEN FERTILIZER",
                 "active": true
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020917-1450122020-9-6-15-15-11.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Z_e9nBNQweI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1205.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1205-800x502.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PHYSICOCHEMICAL PROPERTIES OF MODIFIED STARCHES CONTAINING ANTHOCYANINS FROM JAMBOLAN (Syzygium cumini) FRUIT",
+                "active": false
               }
             ]
           }
