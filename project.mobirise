@@ -10157,6 +10157,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Use of agro-industrial residues for the production of BC for application as a support for sustained release of Rifampicin",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020917-1554122020-9-6-15-56-12.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fB5upCE5rSY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1277-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PLA/ß-CHITIN WHISKERS /SILVER NANOPARTICLES ASYMMETRIC MEMBRANES AS WOUND DRESSING MATERIALS",
                 "active": true
               }
             ]
