@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10131,6 +10131,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Chitosan dressing development: the importance of batches homogeneity to performer the physical-chemical and biological tests",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020917-1450122020-9-6-14-59-40.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qVhse1DtEhw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1232.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1232-800x513.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Orally disintegrating films made from biopolymers: Literature review",
                 "active": true
               }
             ]
