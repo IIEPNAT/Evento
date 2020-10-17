@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10931,7 +10931,7 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "HYDROPHILICITY OF STARCH/CHITOSAN FILMS ADDED WITH UREA FOR USE AS NITROGEN FERTILIZER",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Fantástica",
@@ -10945,6 +10945,19 @@
                 "customStyle1": "display-1",
                 "caption": "PHYSICOCHEMICAL PROPERTIES OF MODIFIED STARCHES CONTAINING ANTHOCYANINS FROM JAMBOLAN (Syzygium cumini) FRUIT",
                 "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020917-1554122020-9-6-16-5-2.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VmQ2CPiNWUA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1343.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1343-800x560.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EXTRACTION AND CHARACTERIZATION OF MANGARITO STARCH",
+                "active": true
               }
             ]
           }
