@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8489,13 +8489,13 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020914-827492020-9-3-9-42-20.jpg",
                 "playVideo": true,
                 "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_SXmQKklhCg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-1",
-                "caption": "EX-SITU MODIFICATION OF BACTERIAL CELLULOSE: THE RELEVANT ROLE OF THE SILANE AGENT",
-                "active": true
+                "caption": "TECHNOLOGICAL POTENTIAL OF HYDROGELS IN CEMENTIOUS PASTES: A POSSIBLE APPLICATION AS AN INTERNAL CURING AGENT",
+                "active": false
               },
               {
                 "tags": "Fantástica",
@@ -8509,6 +8509,19 @@
                 "customStyle1": "display-1",
                 "caption": "DEVELOPMENT AND CHARACTERIZATION OF SELF-SUSTAINED FILMS BASED ON AMBURANA CEARENSIS GUM AS ALTERNATIVE FOR BIODEGRADABLE PACKAGING",
                 "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020917-1450122020-9-6-14-51-50.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rO669H_rclM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EX-SITU MODIFICATION OF BACTERIAL CELLULOSE: THE RELEVANT ROLE OF THE SILANE AGENT",
+                "active": true
               }
             ]
           }
