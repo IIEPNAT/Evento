@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8575,6 +8575,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Thermal study of Amburana cearensis exudate and gum in its purification stages",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020918-1521322020-9-0-16-51-1.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6DrFy9cETLw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "POTENTIAL AND CHALLENGES OF CULTURE MEDIA MODULATION FOR BACTERIAL NANOCELLULOSE PRODUCTION",
                 "active": true
               }
             ]
