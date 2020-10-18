@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8614,6 +8614,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "POLYMER/FE(III)-PORPHYRIN HYBRID FILM: A PROMISING CATALYST FOR OXIDATIVE DECOLORIZATION OF TOXIC AZO DYES",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020918-1521322020-9-0-17-33-29.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k8-gA-kkb-g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "USE OF PINE RESIN FOR THE WOOD PROTECTION AGAINST HUMIDITY",
                 "active": true
               }
             ]
