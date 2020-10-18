@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10224,6 +10224,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "PLA/ß-CHITIN WHISKERS /SILVER NANOPARTICLES ASYMMETRIC MEMBRANES AS WOUND DRESSING MATERIALS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020918-1521322020-9-0-16-20-40.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fF6UXk7VhcQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "IMMOBILIZING CUBOSOMES IN HYALURONIC ACID HYDROGEL",
                 "active": true
               }
             ]
