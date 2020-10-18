@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8562,6 +8562,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "EFFECT OF THE MECHANICAL DEFIBRILLATION PROCESS ON THE DENSITY OF NANOSTRUCTURED COFFEE SHELL FILMS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020918-1521322020-9-0-16-10-33.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Tbkd7h_prEw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1166.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1166-800x486.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Thermal study of Amburana cearensis exudate and gum in its purification stages",
                 "active": true
               }
             ]
