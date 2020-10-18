@@ -8523,19 +8523,6 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "TECHNOLOGICAL POTENTIAL OF HYDROGELS IN CEMENTIOUS PASTES: A POSSIBLE APPLICATION AS AN INTERNAL CURING AGENT",
-                "active": false
-              },
-              {
-                "tags": "Fantástica",
-                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.loom.com/share/9865be336bfa46a688a32c767c2bda1b",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1205.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1205-800x502.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-1",
-                "caption": "USE OF PINE RESIN FOR THE WOOD PROTECTION AGAINST HUMIDITY",
                 "active": true
               }
             ]
