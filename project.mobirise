@@ -8523,6 +8523,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "TECHNOLOGICAL POTENTIAL OF HYDROGELS IN CEMENTIOUS PASTES: A POSSIBLE APPLICATION AS AN INTERNAL CURING AGENT",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020918-1521322020-9-0-15-42-23.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8gFpii0ctp0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1079-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EFFECT OF STARCH CONTENT ON THE MECHANICAL PROPERTIES OF THERMOPLASTIC FILMS PRODUCED BY TAPE CASTING",
                 "active": true
               }
             ]
