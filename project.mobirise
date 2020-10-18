@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8536,7 +8536,7 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "EFFECT OF STARCH CONTENT ON THE MECHANICAL PROPERTIES OF THERMOPLASTIC FILMS PRODUCED BY TAPE CASTING",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Fantástica",
@@ -8550,6 +8550,19 @@
                 "customStyle1": "display-1",
                 "caption": "EVALUATION OF THE ADDITION OF CELLULOSE NANOFIBRILS IN WOOD ADHESIVE",
                 "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020918-1521322020-9-0-15-58-57.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kcRYy7Aj7V0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1283.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1283-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EFFECT OF THE MECHANICAL DEFIBRILLATION PROCESS ON THE DENSITY OF NANOSTRUCTURED COFFEE SHELL FILMS",
+                "active": true
               }
             ]
           }
