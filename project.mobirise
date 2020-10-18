@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8521,6 +8521,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "TECHNOLOGICAL POTENTIAL OF HYDROGELS IN CEMENTIOUS PASTES: A POSSIBLE APPLICATION AS AN INTERNAL CURING AGENT",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020917-1450122020-9-6-14-51-50.jpg",
+                "playVideo": true,
+                "videoUrl": "<div style=\"position: relative; padding-bottom: 56.25%; height: 0;\"><iframe src=\"https://www.loom.com/embed/9865be336bfa46a688a32c767c2bda1b\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"></iframe></div>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "USE OF PINE RESIN FOR THE WOOD PROTECTION AGAINST HUMIDITY",
                 "active": true
               }
             ]
