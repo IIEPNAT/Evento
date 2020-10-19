@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8692,6 +8692,32 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "STARCH AND NANOCELLULOSE BASED BIONANOCOMPOSITE COATINGS FOR PACKAGING APPLICATIONS: A REVIEW USING METHODI ORDINATIO",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-18-17-14.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aNPuemaidiE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "OBTAINING AND EVALUATING THERMOPLASTIC STARCH BIOCOMPOSITES FROM DIFFERENT BOTANICAL SOURCES WITH TIO2 AND GRAPHENE",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-18-22-46.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yqGlmJWSmO4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "INFLUENCE OF MORPHOLOGY AND PH ON THE SWELLING DEGREE AND DIQUAT RELEASED PROPERTIES FROM METHYLCELLULOSE BASED NANOCOMPOSITE HYDROGELS",
                 "active": true
               }
             ]
@@ -10406,6 +10432,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "SCIENTIFIC PROSPECTION OF THE USE OF POLYMERIC BLENDS BASED ON COLLAGEN AND CHITOSAN APPLIED TO TISSUE ENGINEERING",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-18-9-4.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rj6MrOz81Cw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1205.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1205-800x502.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EXTRACTION OF TANNIN-RICH COMPOUNDS FROM BARBATIMÃO (STRYPHNODENDRON ADSTRINGENS) BARK AND INCORPORATION IN BIOPOLYMER MATRICES",
                 "active": true
               }
             ]
