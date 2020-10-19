@@ -10393,6 +10393,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "PROSPECTIVE STUDY OF THE USE OF CHITOSAN COMPOSITES FOR THE PRODUCTION OF BURN DRESSINGS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-17-57-28.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8N4-cpDHEio\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "SCIENTIFIC PROSPECTION OF THE USE OF POLYMERIC BLENDS BASED ON COLLAGEN AND CHITOSAN APPLIED TO TISSUE ENGINEERING",
                 "active": true
               }
             ]
