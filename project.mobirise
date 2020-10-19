@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page13.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10484,6 +10484,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "STUDY OF THE ANTIBACTERIAL ACTIVITY AND THE RELEASE PROCESS IN LATEX INTRA-ORAL ORTHODONTIC ELASTICS IMPREGNED WITH CHLOREXIDINE",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-19-42-28.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dkuhXkSJsM4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PHARMACEUTICAL APPLICATIONS OF STERCULIA FOETIDA GUM",
                 "active": true
               }
             ]
