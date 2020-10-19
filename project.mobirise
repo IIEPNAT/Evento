@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10328,6 +10328,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "BACTERIAL CELLULOSE AS A VERSATILE PLATFORM TO MANUFACTURE CERIUM-DOPED CALCIUM PHOSPHATES AS BONE CEMENTS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-16-53-17.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PyPDGpsijjY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "BIOCELLULOSE/PROPOLIS HYDROGELS FOR WOUND TREATMENT",
                 "active": true
               }
             ]
@@ -11154,6 +11167,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Oxidative stability of fresh beef packed with chitosan films incorporated with cashew bark",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-16-30-16.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kzl-ATYdgGw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "ANTIOXIDANT ACTIVE PACKAGING MATERIAL BASED ON CHITOSAN AND LEMONGRASS ESSENTIAL OIL",
                 "active": true
               }
             ]
