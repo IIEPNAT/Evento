@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page13.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8731,6 +8731,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "POLYMERIC BLEND OF NIBP AND MONOACYLGLYCERIDE POLYANHYDRIDE (FROM BABASSU OIL) WITH ANHYDROUS DICHLOROMALEIC AS A POTENTIAL ELECTRICAL CONDUCTOR",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
+                "playVideo": true,
+                "videoUrl": "APPLICATION OF HYBRID BIODEGRADABLE NANOCOMPOSITES BASED ON HYDROGEL AND NANOCLAY IN CEMENT MORTARS",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "APPLICATION OF HYBRID BIODEGRADABLE NANOCOMPOSITES BASED ON HYDROGEL AND NANOCLAY IN CEMENT MORTARS",
                 "active": true
               }
             ]
