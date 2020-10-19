@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8653,6 +8653,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "POTENTIAL APPLICATION OF SILK FIBROIN AS A NATURAL BIODEGRADABLE POLYMER FOR MECHANICAL BONE STIMULATION",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-17-1-37.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3JEERb9Vgjs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "REVIEW ON THE USE OF GREEN BANANA STARCH AND BACTERIAL CELLULOSE (CB) IN THE APPLICATION IN POLYMERIC PRODUCTS OF QUICK DISCARTABILITY",
                 "active": true
               }
             ]
