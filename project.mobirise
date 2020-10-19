@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10471,6 +10471,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "MODIFICATION AND CROSSLINKING OF CORN STARCH FOR SYNTHESIS AND CHARACTERIZATION OF BIOMATERIAL FOR BIOLOGICAL APPLICATION",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-19-8-51.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MdhW2Zc8ofQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "STUDY OF THE ANTIBACTERIAL ACTIVITY AND THE RELEASE PROCESS IN LATEX INTRA-ORAL ORTHODONTIC ELASTICS IMPREGNED WITH CHLOREXIDINE",
                 "active": true
               }
             ]
