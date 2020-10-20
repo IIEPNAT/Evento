@@ -10760,6 +10760,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "INFLUENCE OF ASSOCIATION OF ALGINATE, POLYCAPROLACTONE (PCL) AND BIOCERAMIC (BC) IN BONE REGENERATION",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-12-19-29.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Z07MDD_gA5c\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1205.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1205-800x502.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Evaluation of Human Cells Adhesion on Organic-Inorganic Scaffolds Obtained by Using Regenerated Cellulose Template",
                 "active": true
               }
             ]
