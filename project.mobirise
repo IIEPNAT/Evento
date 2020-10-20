@@ -10877,6 +10877,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Xanthan gum-amino acid-based coatings with covalently and physically cross-linked networks via carbodiimide and esterification.",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-15-53-32.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/R9swrWg3GuM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PREPARATION AND CHARACTERIZATION OF ß-CHITIN NANOFIBERS/LAPONITE FILMS",
                 "active": true
               }
             ]
