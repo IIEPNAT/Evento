@@ -10666,6 +10666,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "NATURAL POLYMERS APPLIED TO MENISCUS BIOPRINTING: A NARRATIVE REVIEW",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-11-12-42.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Zkoa73FwDGM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1309.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1309-800x545.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "HYBRID MATERIALS FROM BACTERIAL CELLULOSE NANOCRYSTALS MODIFIED WITH SILOXANES",
                 "active": true
               }
             ]
