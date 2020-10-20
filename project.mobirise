@@ -10929,6 +10929,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "REVIEW OF POLYMERS IN BONE REGENERATION",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-17-8-26.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KQnPY6zBbec\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-10-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-10-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "ESSENTIAL OILS ENCAPSULATED IN CHITOSAN MICROPARTICLES AGAINST Candida albicans BIOFILMS",
                 "active": true
               }
             ]
