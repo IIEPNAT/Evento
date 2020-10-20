@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -11505,6 +11505,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "OPTICAL PROPERTIES OF CHITOSAN FILMS CONTAINING ANTHOCYANINS STABILIZED WITH A SYNTHETIC LAYERED SILICATE",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-9-39-23.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wIJyMcd6K30\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "DEVELOPMENT OF THE FILM-FORMING DISPERSION CONTAINING CMC, ARABIC GUM AND FOENICULUM VULGARE ESSENTIAL OIL FOR EDIBLE FILMS",
                 "active": true
               }
             ]
