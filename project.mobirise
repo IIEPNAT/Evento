@@ -10968,6 +10968,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "BIOCELLULOSE AND 3D BIOPRINTING IN REGENERATIVE MEDICINE: A REVIEW",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-18-11-49.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Rmf5BHDgzZ4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1121.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1121-800x467.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EVALUATION OF RESIDUAL DIMETHYLSULFOXIDE IN ELECTROSPUN FIBERS",
                 "active": true
               }
             ]
