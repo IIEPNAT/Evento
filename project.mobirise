@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10510,6 +10510,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "PHARMACEUTICAL APPLICATIONS OF STERCULIA FOETIDA GUM",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-21-33-41.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lgAdzC8-wCM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "IMMUNOHISTOCHEMICAL EVALUATION OF IL-1B, IL-10 AND TGF-B1 STIMULATION ON SKIN WOUNDS TREATED WITH BACTERIAL CELLULOSE MEMBRANE INCORPORATED WITH SILVER NANOPARTICLES IN ANIMAL MODEL",
                 "active": true
               }
             ]
