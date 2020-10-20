@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -11414,6 +11414,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "THE USE OF CELLULOSE APPLIED TO THE MANUFACTURE OF BIODEGRADABLE SMART PACKAGING: A PROSPECTIVE STUDY",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-21-54-17.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q4Q3Z-emutM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1079-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "OPTICAL PROPERTIES OF CHITOSAN FILMS CONTAINING ANTHOCYANINS STABILIZED WITH A SYNTHETIC LAYERED SILICATE",
                 "active": true
               }
             ]
