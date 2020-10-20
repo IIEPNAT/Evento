@@ -8757,6 +8757,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Preparation and characterization of gelatin microfibrous membranes obtained from nile tilapia (oreochromis niloticus) residues",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-22-28-43.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/P3JRG9k4cTQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PRODUCTION OF NANOPARTICLES: BIOLOGICAL SYNTHESIS BY PLANT EXTRACTS",
                 "active": true
               }
             ]
