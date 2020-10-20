@@ -10549,6 +10549,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "ELECTROSPUN SOY PROTEIN ISOLATE MATS: EFFECTS OF STERILIZATION BY UV-RADIATION ON SCAFFOLD PROPERTIES",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-22-11-15.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uA5Uc1tYCzE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1277-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "CELLULOSE NANOCRYSTALS-BASED COMPOSITES AS PLATFORM FOR DRUG DELIVERY SYSTEMS",
                 "active": true
               }
             ]
