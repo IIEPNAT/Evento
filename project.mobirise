@@ -10692,6 +10692,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Bacterial Cellulose as Topical Wound-Dressing",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-11-33-31.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SITPSU5iYFU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1121.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1121-800x467.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "<br>PREPARATION, CHARACTERIZATION AND DISSOCIATION STUDY OF A SALT FROM NAPROXEN AND CHITOSAN",
                 "active": true
               }
             ]
