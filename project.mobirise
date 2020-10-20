@@ -8735,9 +8735,9 @@
               },
               {
                 "tags": "Fantástica",
-                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-21-24-16.jpg",
                 "playVideo": true,
-                "videoUrl": "APPLICATION OF HYBRID BIODEGRADABLE NANOCOMPOSITES BASED ON HYDROGEL AND NANOCLAY IN CEMENT MORTARS",
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YUvRNR2d_1k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1080-800x450.jpg",
                 "alt": "",
