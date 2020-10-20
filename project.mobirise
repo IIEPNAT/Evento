@@ -10335,6 +10335,9 @@
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
             }
           },
           "_name": "gallery3",
@@ -10744,6 +10747,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "NATURAL POLYMERS USED AS HYDROGEL BIOINKS IN 3D BIOPRINTING",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-12-11-25.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sWciDl_xFak\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1440-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "INFLUENCE OF ASSOCIATION OF ALGINATE, POLYCAPROLACTONE (PCL) AND BIOCERAMIC (BC) IN BONE REGENERATION",
                 "active": true
               }
             ]
