@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8744,6 +8744,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "APPLICATION OF HYBRID BIODEGRADABLE NANOCOMPOSITES BASED ON HYDROGEL AND NANOCLAY IN CEMENT MORTARS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-22-21-13.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/i-MgiVD8pNw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1205.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1205-800x502.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Preparation and characterization of gelatin microfibrous membranes obtained from nile tilapia (oreochromis niloticus) residues",
                 "active": true
               }
             ]
@@ -10563,6 +10576,19 @@
                 "customStyle1": "display-1",
                 "caption": "CELLULOSE NANOCRYSTALS-BASED COMPOSITES AS PLATFORM FOR DRUG DELIVERY SYSTEMS",
                 "active": true
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-22-11-15.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uA5Uc1tYCzE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Chitosan dressing development: the importance of batches homogeneity to performer the physical-chemical and biological tests",
+                "active": false
               }
             ]
           }
