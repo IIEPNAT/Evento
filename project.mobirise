@@ -11531,6 +11531,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "HIGH STRENGTH XYLAN/CHITOSAN BIOBASED FILMS PREPARED IN THE PRESENCE OF ETHANOL",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-10-31-51.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vnvtwOZQE9o\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EVALUATION OF XYLAN/POLYETHYLENIMINE FILMS WITH DIFFERENT MASS RATIOS",
                 "active": true
               }
             ]
