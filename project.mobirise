@@ -10799,6 +10799,32 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "SCAFFOLDS 3D PRINTED BY FDM TECHNIQUE: DENSITY AND PORE SIZE",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-14-47-25.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6BDT_wXv7B4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "DEVELOPMENT OF NEW EDIBLE FILMS FOR ORAL DELIVERY OF RIBOFLAVIN",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-14-57-11.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zu_al-e-6Bk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1234.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1234-800x514.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "ANTIMICROBIAL ACTIVITY OF AG/ZEOLITE-LOADED CHITOSAN FILMS",
                 "active": true
               }
             ]
