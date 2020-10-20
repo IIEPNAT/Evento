@@ -10838,6 +10838,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "EFFECTS OF NON-THERMAL PLASMA SURFACE TREATMENT ON CELLULAR BEHAVIOR: A REVIEW",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-15-24-15.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/F3vPfodLuV4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Obtaining the bacterial cellulose membrane in situ associated with HPMC as a potential strategy for transdermal drug release",
                 "active": true
               }
             ]
