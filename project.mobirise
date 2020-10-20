@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page13.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10536,6 +10536,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "SCIENTIFIC PROSPECTION OF THE USE OF POLYMERIC BLENDS BASED ON COLLAGEN AND CHITOSAN APPLIED TO TISSUE ENGINEERING",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020919-154482020-9-1-22-3-38.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3cAto8TXeOI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1079-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "ELECTROSPUN SOY PROTEIN ISOLATE MATS: EFFECTS OF STERILIZATION BY UV-RADIATION ON SCAFFOLD PROPERTIES",
                 "active": true
               }
             ]
