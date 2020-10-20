@@ -10955,6 +10955,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "DEVELOPMENT AND HYDROPHILIC PROPERTIES OF A NOVEL MAGNETIC NANOCOMPOSITE HYDROGEL BASED ON POLYSACCHARIDE, ZEOLITE AND FE3O4@GO NANOPARTICLES",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-841312020-9-2-17-40-58.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mt-u13sBQEo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-11-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-11-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "BIOCELLULOSE AND 3D BIOPRINTING IN REGENERATIVE MEDICINE: A REVIEW",
                 "active": true
               }
             ]
