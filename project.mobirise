@@ -8978,6 +8978,32 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "Effect of Sepiolite on Thermal Properties of Biodegradable Poly(lactic acid) Prepared by Casting and Melting",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-1834152020-9-2-23-47-6.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/j-0QCmUAb_M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PROTECTING CULTURAL HERITAGE WITH NANOCELLULOSE AND NANOLIGNIN",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-1834152020-9-2-23-56-35.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/F8z59QtT16g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1079-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Nanocellulose films: influence of nanoparticle aspect ratio and surface charge",
                 "active": true
               }
             ]
