@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12327,6 +12327,32 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "THERMAL KINETICS STUDY OF CALABASH FRUIT SHELL AND DRAGON FRUIT PEEL AND THEIR VIABILITY AS AN ENERGY RESOURCE",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020921-652522020-9-3-7-57-31.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qwF_c4HvG3g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "DEVELOPMENT OF THE FILM-FORMING DISPERSION CONTAINING CMC, ARABIC GUM AND FOENICULUM VULGARE ESSENTIAL OIL FOR EDIBLE FILMS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020921-652522020-9-3-7-59-16.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/seUH6l2GARU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1440-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "WATER VAPOR PERMEABILITY OF COMPOSITE FILMS BASED ON HYDROXYPROPYL METHYLCELLULOSE REINFORCED WITH BACTERIAL CELLULOSE NANOCRYSTALS",
                 "active": true
               }
             ]
