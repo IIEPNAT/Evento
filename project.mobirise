@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page12.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12561,6 +12561,71 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "WATER VAPOR PERMEABILITY OF COMPOSITE FILMS BASED ON HYDROXYPROPYL METHYLCELLULOSE REINFORCED WITH BACTERIAL CELLULOSE NANOCRYSTALS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020922-821222020-9-4-9-8-1.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/H_z96JOKvyI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PERFORMANCE ASSESSMENT OF STARCH-MALTODEXTRIN POLYMERIC SYSTEMS BY SPRAY DRYING",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020922-821222020-9-4-9-10-23.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mkYo4Q5xJoY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1079-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "Antimicrobial active edible coating of alginate and chitosan add ZnO nanoparticles applied in guavas (Psidium guajava L.)",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020922-821222020-9-4-9-12-49.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0efCWDxqyh4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "POLYMERIC FILMS OF SODIUM ALGINATE AND PEG RETICULATOS WITH TEOS AND DOPED WITH ZNO PARA THE COATING AND PROTECTION OF SEEDS",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020922-821222020-9-4-9-16-30.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2uyDHGHIvog\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1283.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1283-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "EFFECT OF CHITOSAN AND CITRIC ACID LEVEL ON THE PHYSICAL PROPERTIES OF STARCH BASED EDIBLE FILMS CONTAINING OREGANO ESSENTIAL OIL",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020922-821222020-9-4-9-39-53.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hS__yEjAp1I\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PHYSICOCHEMICAL PROPERTIES OF PROPOLIS-LOADED STARCH NANOPARTICLES PRODUCED BY ANTI-SOLVENT PRECIPITATION",
                 "active": true
               }
             ]
