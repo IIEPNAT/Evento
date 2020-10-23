@@ -12626,6 +12626,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "PHYSICOCHEMICAL PROPERTIES OF PROPOLIS-LOADED STARCH NANOPARTICLES PRODUCED BY ANTI-SOLVENT PRECIPITATION",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020920-1834152020-9-2-23-20-9.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WNBi8eW4-gM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "BIOPOLYMER BASED ON THE PUREE OF MESOCARP OF MELON (Cucumis melo L.)",
                 "active": true
               }
             ]
