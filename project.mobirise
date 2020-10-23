@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8926,7 +8926,7 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "BIODEGRADABLE HYDROGELS BASED ON BACTERIAL CELLULOSE NANOFIBERS AS POTENTAIL ADDITIVE FOR CEMENT-PASTES",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Fantástica",
@@ -9122,6 +9122,19 @@
                 "customStyle1": "display-1",
                 "caption": "SYNTHESIS, EXTRACTION AND CHARACTERIZATION OF BIOPOLYMER POLY(3-HYDROXYBUTYRATE) AND POLY(3-HYDROXYBUTYRATE-CO-3-HYDROXYVALERATE)<span style=\"color: rgb(3, 3, 3); font-family: Roboto, Arial, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(249, 249, 249);\"><br></span>",
                 "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020923-92142020-9-5-11-36-11.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/99PaJkjYH3Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "STUDY OF INFLUENCE OF TYPE OF TEA ON THE PRODUCTION OF BACTERIAL CELLULOSE IN KOMBUCHA TEA AND EVALUATION OF ITS ANTIMICROBIAL ACTION",
+                "active": true
               }
             ]
           }
