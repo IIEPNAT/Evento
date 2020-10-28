@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9134,6 +9134,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "STUDY OF INFLUENCE OF TYPE OF TEA ON THE PRODUCTION OF BACTERIAL CELLULOSE IN KOMBUCHA TEA AND EVALUATION OF ITS ANTIMICROBIAL ACTION",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-936262020-9-3-10-0-27.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/R9sERO3Qc2k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1195-800x498.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "CHEMICAL MODIFICATION OF CHITOSAN THROUGH GRAFTING WITH FATTY ACIDS TO IMPROVE ITS SOLUBILITY",
                 "active": true
               }
             ]
