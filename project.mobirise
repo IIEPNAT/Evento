@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -11423,6 +11423,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "ALGINATE BILAYER MEMBRANES FOR SIMVASTATIN RELEASE FOR WOUND HEALING<br>",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-936262020-9-3-9-40-35.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fYW2LcY6xvY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1079-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "ORGANIC-INORGANIC NANOCOMPOSITES BASED ON BIOPOLYMER ALLIUM CEPA CONTAINING SIMVASTATIN FOR APPLICATION IN DENTISTRY<br>",
                 "active": true
               }
             ]
