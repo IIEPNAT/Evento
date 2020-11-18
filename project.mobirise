@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12678,6 +12678,19 @@
                 "title": "",
                 "customStyle1": "display-1",
                 "caption": "BIOPOLYMER BASED ON THE PUREE OF MESOCARP OF MELON (Cucumis melo L.)",
+                "active": false
+              },
+              {
+                "tags": "Fantástica",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20201018-114122020-10-3-11-45-25.jpg",
+                "playVideo": true,
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XABV60PJnwE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "image": "@PROJECT_PATH@/assets/images/mbr-14-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-14-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-1",
+                "caption": "PHENOLIC COMPOUNDS EXTRACTED FROM RED MOMBIN (Spondias Purpurea L.), MICROENCAPSULATED, USING DIFFERENT WALL MATERIALS MALTODEXTRIN, ARABIC GUM AND WEY",
                 "active": true
               }
             ]
